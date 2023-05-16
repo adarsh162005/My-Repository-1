@@ -1,0 +1,11 @@
+**1.PROBLEM DEFINITION:**
+
+***
+
+ Design a user friendly ,automatic scarp sorting machine .The body of the machine made up of acrylic sheet ,the machine should not exceed the volume of 2 cubic feet, the cost of the machine should not exceed maximum Rs.3000/.The machine should be able to sort the scrap .The machine should be able to sense the material .Indicator which shows on &off of the machine.
+
+***
+## 1.1 Question and Answers:
+  Table 1: Questions and answers
+|**Sl. No.**|**Questions**|**Answer**|**Objective/Function/Constraint**|
+|---------|-------------|----------|---------------------------------|
