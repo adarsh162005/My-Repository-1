@@ -1,0 +1,12 @@
+# Welcome To Team C-12.
+## Mentor:Prof.Sadiq.Pachapuri.
+
+***
+
+### Project name:Automatic sorting machine.
+|**SI.No** | **NAME**           | **Roll No** | **Student SRN** | **BRANCH** |
+|-------|-------------------------------|---------|-------------|--------|
+| 1     |Rohit.R.Rathod                   | 323  |02FE22BCS085| CS    |
+| 2     |Rohit.V.Usulkar                  | 324  | 02FE22BEC070 | EC  |
+| 3     | Sanjana.K.Holi                | 329  |02FE22BCS107| CS   |
+| 4     | Sanjeet.G.Kalasannavar | 330  | 02FE22BCS110 | CS|
