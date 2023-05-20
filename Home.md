@@ -1,3 +1,3 @@
 # Welcome to Team C-12 Wiki!.
-![](https://www.google.com/search?q=engineering+mindset+pics&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiuvpnooIT_AhWvoWMGHZfmAqIQ_AUoAXoECAEQAw#imgrc=lUjYQE_AOgc5zM)
+![](https://vennappstorageha.blob.core.windows.net/public/nes-fircroft/mediahub/engineer-s-mindset--1--dd5fe74b2f884f6793fdbde9c5bd4d21.jpg)
 
