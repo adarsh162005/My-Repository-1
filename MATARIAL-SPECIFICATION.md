@@ -1,6 +1,6 @@
 *  # torque calculation
 ***
-# motor 1
+# MOTOR-1
 
 knowns
                                                                                                                                                          
