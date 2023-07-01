@@ -4,17 +4,17 @@
 
 knowns
                                                                                                                                                          
-Weight=Mass        (gravity is neglacted)                                                                                                                                                        
+Weight=Mass        (gravity is neglected)                                                                                                                                                        
 density of rubber= 1.1 g/cm                                                                                                                                    
 density of metal=1.2  g/cm 
 ***
-Length of convyer belt(l)=60cm                                                                                                                                                         
-readth of convyer belt(b)=0.2cm                                                                                                                                                         
-height of the convyer belt(h)=10cm                                                                                                                                                         
-* **weight of the convyer belt**                                                                                                                                                         
+Length of conveyer belt(l)=60cm                                                                                                                                                         
+breadth of conveyer belt(b)=0.2cm                                                                                                                                                         
+height of the conveyer belt(h)=10cm                                                                                                                                                         
+* **weight of the conveyer belt**                                                                                                                                                         
 volume=l * b * h                                                                                                                                                           
       =60  *0.2 *10                                                                                                                                                         
-     **valume =120g**                                                                                                                                                          
+     **volume =120g**                                                                                                                                                          
                                                                                                                                                         
 weight=volume * density of plastic                                                                                                                                                         
            =120 *1.1                                                                                                                                                         
@@ -27,7 +27,7 @@ weight=volume * density of plastic
                                                                                                                                                
 volume=3.142 * r^2 * h                                                                                                                                                         
 =3.142 *1.5 *1.5 *10                                                                                                                                                         
-**valume=70.7g**                                                                                                                                                         
+**volume=70.7g**                                                                                                                                                         
                                                                                                                                                           
 weight=volume *density of metal                                                                                                                                                          
       =70.7 *1.2                                                                                                                                                         
@@ -36,10 +36,10 @@ weight=volume *density of metal
 for 1 shaft weight is 84.8g                                                                                                                                                         
 for 2 shaft                                                                                                                                                          
 weight=2 *84.8                                                                                                                                                         
-   **weight**   =170g(approx)                                                                                                                                                                                                                                                                                                                
+   **weight**   =170g(approx.)                                                                                                                                                                                                                                                                                                                
       ***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
   **Assume that the scrap weight is= 50g**                                                                                                                                                                                                                                                                                                                
-**Total weight**=weight of the convyer belt + weight of the 2 shaft + scrap weight                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+**Total weight**=weight of the conveyer belt + weight of the 2 shaft + scrap weight                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 = 170+ 132 + 50                                                                                                                                                       
 **total weight=352g**                                                                                                                                                       
 ***
@@ -51,7 +51,7 @@ weight=2 *84.8
 **force=6.76 N**                                                                                                                                                       
                                                                                                                                                        
 * **The torque of the motor 1 is**                                                                                                                                                        
-torque=force *displaceent *foctor of saftey                                                                                                                                                       
+torque=force *displacement * factor of safety                                                                                                                                                        
 =6.76 *0.015 *1.5                                                                                                                                                       
 =0.1522 Nm                                                                                                                                                       
 =0.1522 /9.8 *100                                                                                                                                                        
@@ -62,10 +62,47 @@ torque=force *displaceent *foctor of saftey
 # Motor 2                                                                                                                                                      
 
                                                                                                                                                
+knowns
+                                                                                                                                                         
+Weight=Mass        (gravity is neglected)                                                                                                                                                                                                                                                                                            
+density of iron metal=7.2  g/cm .
+***
 
 
+* **weight of the shafts**                                                                                                                                                             
+    radius of the shaft=0.5 cm                                                                                                                                                       
+    height of the shaft=5 cm 
 
+assume copper wire weight =100gm.
+ 
+volume=3.142 * r^2 * h.
+=3.142 *0.5 *0.5 *5                                                                                                                                                        
+**volume=4 g** .
 
+weight=volume *density of metal                                                                                                                                                          
+      =4 *7.2                                                                                                                                                         
+    **weight =28.8g**                                                                                                                                                            
+   ***                 
+**Total weight**=weight of the shaft + weight of the copper wire.                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+= 28.8+100.                                                                                                                                                      
+**total weight=128.8g**                                                                                                                                                       
+***
+* **Total force on the motor**                                                                                                                                                    
+**force** = co efficient of friction * mass * gravity                                                                                                                                                       
+=0.128 * 9.8                                                                                                                                                         
+=01.25kg                                                                                                                                                       
+=1.25 * 9.806                                                                                                                                                       
+**force=12.3 N**
+
+* **The torque of the motor 1 is**                                                                                                                                                        
+torque=force *displacement * factor of safety                                                                                                                                                       
+=12.3 *0.007 *1.5                                                                                                                                                       
+=0.13 Nm                                                                                                                                                       
+=0.13 /9.8 *100                                                                                                                                                        
+**torque=1.31 kg-cm**                                                                                                                                                        
+                                                                                                                                                       
+**Therefore the torque of the first motor is=1.31 kg-cm**                                                                                                                                                       
+***
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
