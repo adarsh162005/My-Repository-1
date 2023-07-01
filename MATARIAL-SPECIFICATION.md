@@ -33,4 +33,19 @@ weight=volume *density
 for 1 shaft weight is 84.8g                                                                                                                                                         
 for 2 shaft                                                                                                                                                          
 weight=2 *84.8                                                                                                                                                         
-      =170g(approx)
+      =170g(approx)                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+  assume that the scrap weight is= 50g                                                                                                                                                                                                                                                                                                                
+Total weight=weight of the convyer belt + weight of the 2 shaft + scrap weight                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+= 170+ 132 + 50                                                                                                                                                       
+=352g                                                                                                                                                       
+                                                                                                                                                       
+force = co efficient of friction * mass * gravity                                                                                                                                                       
+=0.2 * 0.352 *                                                                                                                                                   
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
