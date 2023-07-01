@@ -1,4 +1,4 @@
-*  # MATARIAL SPECIFICATION
+*  # torque calculation
 ***
 # motor 1
 
