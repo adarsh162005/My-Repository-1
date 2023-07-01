@@ -44,6 +44,11 @@ force = co efficient of friction * mass * gravity
 =0.2 * 0.352 *                                                                                                                                                   
 
 
+# motor 2
+
+knowns
+                                                                                                                                                         
+                                                                                                                                    
 
 
 
