@@ -9,4 +9,4 @@
 |5.|Machine Right View|
 ***
 ## 1. Machine Main View
-!["E:\Engineering Exploration\Virtual Implementation\Images\Main machine view.jpg"](https://github.com/CEER-C/C12/wiki/6%3A-Virtual-Implementation)
+"E:\Engineering Exploration\Virtual Implementation\Images\Main machine view.jpg"
