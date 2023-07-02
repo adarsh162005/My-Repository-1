@@ -8,6 +8,7 @@
 |3.|Machine Front View|
 |4.|Machine Left View|
 |5.|Machine Right View|
+|6.|Free View|
 ***
 ## 1. Machine Main View
 ![WhatsApp Image 2023-07-02 at 12 51 46](https://github.com/CEER-C/C12/assets/131232900/c0a30e93-52f1-42d0-b7d4-e1ad65a0651e)
@@ -23,6 +24,10 @@
 ***
 ## 5. Machine Right View
 ![Machine Right View](https://github.com/CEER-C/C12/assets/131232900/9bb24933-98d6-48fa-b6d2-e201914dffb5)
+***
+## 6. Free View
+![Main machine view](https://github.com/CEER-C/C12/assets/131232900/29a37f55-c6b5-4c52-9970-e95815526895)
+
 
 
 
