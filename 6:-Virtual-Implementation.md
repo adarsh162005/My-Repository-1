@@ -10,7 +10,7 @@
 |5.|Machine Right View|
 ***
 ## 1. Machine Main View
-![Main machine view](https://github.com/CEER-C/C12/assets/131232900/9c7ac553-01f8-4165-82fb-cd37e82bcd10)
+![WhatsApp Image 2023-07-02 at 12 51 46](https://github.com/CEER-C/C12/assets/131232900/c0a30e93-52f1-42d0-b7d4-e1ad65a0651e)
 ***
 ## 2. Machine Top View
 ![Machine Top View](https://github.com/CEER-C/C12/assets/131232900/bfb6953b-8bd1-43ff-bfef-53d0f936ecf1)
