@@ -101,7 +101,7 @@ torque=force *displacement * factor of safety
 =0.13 /9.8 *100                                                                                                                                                        
 **torque=1.31 kg-cm**                                                                                                                                                        
                                                                                                                                                        
-**Therefore the torque of the first motor is=1.31 kg-cm**                                                                                                                                                       
+**Therefore the torque of the second motor is=1.31 kg-cm**                                                                                                                                                       
 ***
 
 
