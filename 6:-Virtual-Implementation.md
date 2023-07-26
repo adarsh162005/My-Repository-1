@@ -11,22 +11,24 @@
 |6.|Free View|
 ***
 ## 1. Machine Main View
-![WhatsApp Image 2023-07-02 at 12 51 46](https://github.com/CEER-C/C12/assets/131232900/c0a30e93-52f1-42d0-b7d4-e1ad65a0651e)
+![WhatsApp Image 2023-07-26 at 16 51 52](https://github.com/CEER-C/C12/assets/131232900/912530c2-f706-4ece-817e-aa338090dbec)
 ***
 ## 2. Machine Top View
-![Machine Top View](https://github.com/CEER-C/C12/assets/131232900/bfb6953b-8bd1-43ff-bfef-53d0f936ecf1)
+![image](https://github.com/CEER-C/C12/assets/131232900/dbd2f2dd-0f41-4b0e-9c92-67884b3e1f2e)
 ***
 ## 3. Machine Front View 
-![Machine Front View](https://github.com/CEER-C/C12/assets/131232900/84d08c97-f4f0-4f55-8fb9-d4c7df12e530)
+![image](https://github.com/CEER-C/C12/assets/131232900/9177e82a-91cb-40bf-8c27-7caee9f4eda6)
 ***
 ## 4. Machine Left View
-![Machine Left View](https://github.com/CEER-C/C12/assets/131232900/276022ae-b1dd-449c-bca4-5a4f297d6a94)
+![image](https://github.com/CEER-C/C12/assets/131232900/98f04913-1d05-488b-b63d-fb082682c75a)
 ***
 ## 5. Machine Right View
-![Machine Right View](https://github.com/CEER-C/C12/assets/131232900/9bb24933-98d6-48fa-b6d2-e201914dffb5)
+![image](https://github.com/CEER-C/C12/assets/131232900/9e5cbbf3-35b3-41c7-b353-bad890cc41cb)
 ***
 ## 6. Free View
-![Main machine view](https://github.com/CEER-C/C12/assets/131232900/29a37f55-c6b5-4c52-9970-e95815526895)
+![image](https://github.com/CEER-C/C12/assets/131232900/065a9830-c900-41e7-bb91-204ac544524a)
+
+
 
 
 
