@@ -1,7 +1,7 @@
-# 3D Model: ElectroMag Metal Sorter
+# 3D Model: Electro-Mag Metal Sorter
 ***
 ### Note : The dimensions of the machine parts are in "mm"
-| Sl.No | View |
+| Si .No | View |
 |-------|-------|
 |1.|Machine Main View|
 |2.|Machine Top View|
